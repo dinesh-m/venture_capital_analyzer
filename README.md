@@ -39,6 +39,7 @@ To use the VC Funding Analyzer application, clone the repository in your local w
 
 ## Plotting the loss and accuracy scores of different neural network models
 
+You may see the loss and accuracy scores of neural newtork models as shown below.
 
 **Loss and accuracy scores of the original model**
 
